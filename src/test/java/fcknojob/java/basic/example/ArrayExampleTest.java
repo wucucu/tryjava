@@ -6,7 +6,17 @@ class ArrayExampleTest {
 
     @Test
     void testMultiDimArray() {
-        new ArrayExample().tryMultiDimArray();
+        ArrayExample.tryMultiDimArray();
+    }
+
+    @Test
+    void testArrayCopy() {
+        ArrayExample.tryArrayCopy();
+    }
+
+    @Test
+    void testArrayCopyOf() {
+        ArrayExample.tryArrayCopyOf();
     }
 
 }

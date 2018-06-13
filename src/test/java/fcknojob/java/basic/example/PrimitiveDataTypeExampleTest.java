@@ -28,4 +28,9 @@ class PrimitiveDataTypeExampleTest {
     void testUnderscoredLiterals() {
         new PrimitiveDataTypeExample().printUnderscoredLiterals();
     }
+
+    @Test
+    void testInvalidUsage() {
+        new PrimitiveDataTypeExample().tryInvalidUsage();
+    }
 }
