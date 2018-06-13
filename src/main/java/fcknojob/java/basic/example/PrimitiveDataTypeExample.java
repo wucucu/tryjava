@@ -1,10 +1,11 @@
-package fcknojob.java.basic.example;
-
-/**
+/*
  * Primitive Data Types
  * java basics in official tutorials for JDK 8
  * https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
  */
+
+package fcknojob.java.basic.example;
+
 class PrimitiveDataTypeExample {
     byte byteField;
     short shortField;
