@@ -1,7 +1,13 @@
-package fcknojob.java.leetcode.solution;
+package fcknojob.java.leetcode._435_non_overlapping_intervals;
+
+import fcknojob.java.leetcode.Interval;
 
 import java.util.Arrays;
 import java.util.Comparator;
+
+/*
+ * try Arrays.sort
+ */
 
 /**
  * Definition for an interval.
@@ -18,6 +24,7 @@ class Solution {
 
         if (INTERVALS_SIZE == 0) return 0;
 
+        // Arrays.sort(intervals, (o1, o2) -> (o1.end - o2.end));
         // Arrays.sort(intervals, Comparator.comparingInt(o -> o.end));
         Arrays.sort(intervals,
                 new Comparator<Interval>() {
