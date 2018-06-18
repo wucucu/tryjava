@@ -7,8 +7,13 @@ Try java language and tools
 - Leetcode everyday 2 at least, ref to  [CyC2018/Interview-Notebook:notes/Leetcode 题解.md][1] first round
   - ~~贪心法~~
   - 双指针
+  
 - try to use [maven][2] 
+
 - [MIT 6.005][3] Software Construction / same course on [edX][4]
+  - [Getting Started](https://ocw.mit.edu/ans7870/6/6.005/s16/getting-started/)
+      - java, eclipse, git, junit configration
+
 - oracle [javase8 tutorials][5] / oracle [Java Programmer Language Certification][6] (Scott Selikoff,Jeanne Boyarsky-OCA OCP Java SE 8 Programmer Practice Tests-Sybex (2017))
   - ~~[Getting Started]~~
   - [Learning the Java Language](https://docs.oracle.com/javase/tutorial/java/index.html)
