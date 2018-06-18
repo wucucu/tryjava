@@ -2,6 +2,7 @@ package fcknojob.java.leetcode._406_queue_reconstruction_by_height;
 
 import java.util.Arrays;
 import java.util.ArrayList;
+import java.util.List;
 /*
  * try ArrayList
  */
@@ -12,7 +13,7 @@ class Solution {
 
         Arrays.sort(people, (a, b) -> (a[0]!=b[0] ? b[0]-a[0] : a[1]-b[1]));
 
-        ArrayList<int[]> resultArrayList = new ArrayList<>();
+        List<int[]> resultArrayList = new ArrayList<>();
         for (int[] p: people) {
             resultArrayList.add(p[1], p);
         }
