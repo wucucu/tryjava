@@ -4,7 +4,8 @@ Try java language and tools
 ## TODO
 - Leetcode everyday 2 at least, ref to  [CyC2018/Interview-Notebook:notes/Leetcode 题解.md][1]
 - try to use [maven][2] 
-- [MIT 6.005 Software Construction][3] / [edX][4]
+- [MIT 6.005][3] Software Construction / same course on [edX][4]
+- oracle [javase8 tutorials][5] / oracle [Java Programmer Language Certification][6]
 
 ## DONE
 - try to config git that be able to push from local terminal and the user/email was showing as wucucu/~
@@ -18,3 +19,5 @@ Try java language and tools
 [2]: https://maven.apache.org/
 [3]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/index.htm
 [4]: https://courses.edx.org/courses/course-v1:MITx+6.005.1x+3T2016/course/
+[5]: https://docs.oracle.com/javase/tutorial/index.html
+[6]: https://docs.oracle.com/javase/tutorial/extra/certification/index.html
