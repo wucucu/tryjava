@@ -13,7 +13,10 @@ Try java language and tools
 - [MIT 6.005][3] Software Construction / same course on [edX][4]
   - [Getting Started](https://ocw.mit.edu/ans7870/6/6.005/s16/getting-started/)
       - java, eclipse, git, junit configration
-  - ~~READINGS 01: Static Checking~~
+  - ~~READING 01: Static Checking~~
+  - READING 02: Basic Java
+  - READING 03: Testing
+  - **PROBLEMSET 0: Beta**
 
 - oracle [javase8 tutorials][5] / oracle [Java Programmer Language Certification][6] (Scott Selikoff,Jeanne Boyarsky-OCA OCP Java SE 8 Programmer Practice Tests-Sybex (2017))
   - ~~[Getting Started]~~
