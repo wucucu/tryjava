@@ -10,7 +10,10 @@ Try java language and tools
   
 - try to use [maven][2] 
 
-- [MIT 6.005][3] Software Construction / same course on [edX][4]
+- [MIT 6.005][3] Software Construction /
+  same course on edx 
+  [Software Construction in Java](https://courses.edx.org/courses/course-v1:MITx+6.005.1x+3T2016/course/) /
+  and [Advanced Software Construction in Java](https://courses.edx.org/courses/course-v1:MITx+6.005.2x+1T2017/course/)
   - [Getting Started](https://ocw.mit.edu/ans7870/6/6.005/s16/getting-started/)
       - java, eclipse, git, junit configration
   - ~~READING 01: Static Checking~~
@@ -36,6 +39,5 @@ Try java language and tools
 [1]: https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3.md
 [2]: https://maven.apache.org/
 [3]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/index.htm
-[4]: https://courses.edx.org/courses/course-v1:MITx+6.005.1x+3T2016/course/
 [5]: https://docs.oracle.com/javase/tutorial/index.html
 [6]: https://docs.oracle.com/javase/tutorial/extra/certification/index.html
