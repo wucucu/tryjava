@@ -10,10 +10,10 @@ Try java language and tools
   
 - try to use [maven][2] 
 
-- [MIT 6.005][3] Software Construction /
+- MIT OpenCourseWare [6.005: Software Construction][3] /
   same course on edx 
-  [Software Construction in Java](https://courses.edx.org/courses/course-v1:MITx+6.005.1x+3T2016/course/) /
-  and [Advanced Software Construction in Java](https://courses.edx.org/courses/course-v1:MITx+6.005.2x+1T2017/course/)
+  6.005.1x [Software Construction in Java](https://courses.edx.org/courses/course-v1:MITx+6.005.1x+3T2016/course/) /
+  and 6.005.2x [Advanced Software Construction in Java](https://courses.edx.org/courses/course-v1:MITx+6.005.2x+1T2017/course/)
   - [Getting Started](https://ocw.mit.edu/ans7870/6/6.005/s16/getting-started/)
       - java, eclipse, git, junit configration
   - ~~READING 01: Static Checking~~
