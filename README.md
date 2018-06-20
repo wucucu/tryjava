@@ -6,7 +6,8 @@ Try java language and tools
 ## TODO
 - Leetcode everyday 2 at least, ref to  [CyC2018/Interview-Notebook:notes/Leetcode 题解.md][1] first round
   - ~~贪心法~~
-  - 双指针
+  - ~~双指针~~
+  - 排序
   
 - try to use [maven][2] 
 
