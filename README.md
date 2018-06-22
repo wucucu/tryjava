@@ -27,7 +27,8 @@ Try java language and tools
   - [Learning the Java Language](https://docs.oracle.com/javase/tutorial/java/index.html)
       - ~~OO Concepts~~
       - ~~Language Basics~~
-      - Classes and Objects
+      - ~~Classes and Objects~~
+      - Annotations
   
 ## DONE
 - try to config git that be able to push from local terminal and the user/email was showing as wucucu/~
