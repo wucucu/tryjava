@@ -1,8 +1,5 @@
 package fcknojob.java.javasetutorial.javafx;
 
-/**
- * Created by CKL on 22/06/2018.
- */
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;

@@ -1,7 +1,6 @@
 package fcknojob.java.javasetutorial.javafx;
 
 /**
- * Created by CKL on 22/06/2018.
  * try anonymous classes
  */
 import javafx.application.Application;
