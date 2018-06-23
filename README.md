@@ -17,14 +17,17 @@ Try java language and tools
   and 6.005.2x [Advanced Software Construction in Java](https://courses.edx.org/courses/course-v1:MITx+6.005.2x+1T2017/course/)
   - [Getting Started](https://ocw.mit.edu/ans7870/6/6.005/s16/getting-started/)
       - java, eclipse, git, junit configration
+  - ~~**Problem Set 0: Turtle Graphics**~~
+  - **Problem Set 1: Tweet Tweet**
+  - **Problem Set 2: Poetic Walks**
+  - **Problem Set 3: Expressivo**
+  - **Problem Set 4: Multiplayer Minesweeper**
   - ~~READING 01: Static Checking~~
-  - READING 02: Basic Java
-  - READING 03: Testing
-  - **PROBLEMSET 0: Beta**
-  - READING 04: Code Review
-  - **Problem Set 0: Code Review**
+  - ~~READING 02: Basic Java~~
+  - ~~READING 03: Testing~~
+  - ~~READING 04: Code Review~~
   - READING 05: Specifications
-  - **Problem Set 0: Final**
+
 
 - oracle [javase8 tutorials][5] / oracle [Java Programmer Language Certification][6] (Scott Selikoff,Jeanne Boyarsky-OCA OCP Java SE 8 Programmer Practice Tests-Sybex (2017))
   - ~~[Getting Started]~~
