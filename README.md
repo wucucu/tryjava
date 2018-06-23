@@ -21,6 +21,10 @@ Try java language and tools
   - READING 02: Basic Java
   - READING 03: Testing
   - **PROBLEMSET 0: Beta**
+  - READING 04: Code Review
+  - **Problem Set 0: Code Review**
+  - READING 05: Specifications
+  - **Problem Set 0: Final**
 
 - oracle [javase8 tutorials][5] / oracle [Java Programmer Language Certification][6] (Scott Selikoff,Jeanne Boyarsky-OCA OCP Java SE 8 Programmer Practice Tests-Sybex (2017))
   - ~~[Getting Started]~~
