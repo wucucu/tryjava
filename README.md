@@ -20,7 +20,7 @@ Try java language and tools
   - ~~READING 01: Static Checking~~
   - READING 02: Basic Java
   - READING 03: Testing
-  - **PROBLEMSET 0: Beta**
+  - **Problem Set 0: Beta**
   - READING 04: Code Review
   - **Problem Set 0: Code Review**
   - READING 05: Specifications
