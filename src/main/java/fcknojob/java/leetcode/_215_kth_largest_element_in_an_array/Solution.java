@@ -6,6 +6,8 @@ import java.util.PriorityQueue;
 /*
  * heap sort
  * try PriorityQueue
+ *
+ * quick selection with lomuto partition method, c.f., Hoare partition scheme
  */
 public class Solution {
 
@@ -42,6 +44,7 @@ public class Solution {
     /**
      * qsort partition on int array nums inplace, index from lo to hi, use nums[hi] as pivot,
      * larger elements on lo side, smaller elements on hi side
+     * https://en.wikipedia.org/wiki/Quicksort#Lomuto_partition_scheme
      * @param nums
      * @param lo first index of partition interval
      * @param hi last index of partition interval
