@@ -11,7 +11,8 @@ Try java language and tools
   - 二分查找 binary search
   
   
-- try to use [maven][2] 
+- try to use [maven][2]
+- try spring mvc
 
 - MIT OpenCourseWare [6.005: Software Construction][3] /
   same course on edx 
@@ -39,6 +40,7 @@ Try java language and tools
       - ~~Classes and Objects~~
       - Annotations
       - Interfaces and Inheritance
+      - Packages
   
 ## DONE
 - try to config git that be able to push from local terminal and the user/email was showing as wucucu/~
