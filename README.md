@@ -38,6 +38,7 @@ Try java language and tools
       - ~~Language Basics~~
       - ~~Classes and Objects~~
       - Annotations
+      - Interfaces and Inheritance
   
 ## DONE
 - try to config git that be able to push from local terminal and the user/email was showing as wucucu/~
