@@ -2,6 +2,10 @@ package fcknojob.java.leetcode._347_top_k_frequent_elements;
 
 import java.util.*;
 
+/*
+ * bucket sort
+ * try Map<,List<>>
+ */
 public class Solution {
     public List<Integer> topKFrequent(int[] nums, int k) {
 
@@ -15,9 +19,9 @@ public class Solution {
 
         for (int n: counter.keySet()) {
             int v = counter.get(n);
-            buckets.getOrDefault(v, new ArrayList<Integer>()).add(n);
+            buckets.putIfAbsent(v, new ArrayList<>());
+            buckets.get(v).add(n);
         }
-
 
         List<Integer> topK = new ArrayList<>();
         for (int i = nums.length; i > 0 && topK.size() < k; i--) {
@@ -32,7 +36,8 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        List<Integer> nums = new ArrayList<Integer>(Arrays.asList(1,2,3,4));
-        System.out.println(nums);
+        int[] nums = {1,1,2,3,3};
+        Solution solution = new Solution();
+        System.out.println(solution.topKFrequent(nums, 2));
     }
 }
