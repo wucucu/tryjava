@@ -39,7 +39,8 @@ Try java language and tools
       - ~~Language Basics~~
       - ~~Classes and Objects~~
       - Annotations
-      - Interfaces and Inheritance
+      - ~~Interfaces and Inheritance~~
+      - Namings and Strings
       - Packages
   
 ## DONE
