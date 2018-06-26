@@ -8,7 +8,8 @@ Try java language and tools
   - ~~贪心法 greeady~~
   - ~~双指针 two pointers~~
   - ~~排序 sort~~
-  - 二分查找 binary search
+  - ~~二分查找 binary search~~
+  - 搜索
   
   
 - try to use [maven][2]
