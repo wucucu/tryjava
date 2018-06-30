@@ -16,25 +16,24 @@ class Solution {
 
         if (!notVisitedWordSet.contains(endWord)) return 0;
 
-        Queue<String> q = new LinkedList<>();
+        Set<String> q = new HashSet<>();
         int depth = 0;
         q.add(beginWord);
 
         while (!q.isEmpty()) {
-            int qSize = q.size();
-            depth++;
-            for (int i = 0; i < qSize; i++) {
-                String currWord = q.poll();
-                Iterator<String> iter = notVisitedWordSet.iterator();
-                while (iter.hasNext()) {
-                    String nextWord = iter.next();
-                    if (isConnected(currWord, nextWord)) {
-                        if (nextWord.equals(endWord)) return depth+1;
-                        q.add(nextWord);
-                        iter.remove();
-                    }
-                }
-            }
+           depth++;
+           Set<String> qNext = new HashSet<>();
+           for (String currWord: q) {
+               for (Iterator<String> iter = notVisitedWordSet.iterator(); iter.hasNext(); ) {
+                   String nextWord = iter.next();
+                   if (isConnected(currWord, nextWord)) {
+                       if (nextWord.equals(endWord)) return depth+1;
+                       iter.remove();
+                       qNext.add(nextWord);
+                   }
+               }
+           }
+           q = qNext;
         }
 
         return 0;
