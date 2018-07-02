@@ -46,7 +46,7 @@ class Solution {
 
         if (l == 0) return possibleLengths;
         if (remaingS.charAt(0) == '0') { // 0
-            possibleLengths.add(0);
+            possibleLengths.add(1);
             return possibleLengths;
         }
 
