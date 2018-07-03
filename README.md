@@ -9,7 +9,8 @@ Try java language and tools
   - ~~双指针 two pointers~~
   - ~~排序 sort~~
   - ~~二分查找 binary search~~
-  - 搜索
+  - ~~搜索~~
+  - 排列
   
   
 - try to use [maven][2]
