@@ -5,12 +5,13 @@ Try java language and tools
 
 ## TODO
 - Leetcode everyday 2 at least, ref to  [CyC2018/Interview-Notebook:notes/Leetcode 题解.md][1] first round
-  - ~~贪心法 greeady~~
-  - ~~双指针 two pointers~~
-  - ~~排序 sort~~
-  - ~~二分查找 binary search~~
-  - ~~搜索~~
-  - 排列
+  - ~~贪心法 greeady~~ (9/9)
+  - ~~双指针 two pointers~~ (7/7)
+  - ~~排序 sort~~ (4/4)
+  - ~~二分查找 binary search~~ (6/6)
+  - 搜索 (12/22)
+  - 分治
+  - 
   
   
 - try to use [maven][2]
