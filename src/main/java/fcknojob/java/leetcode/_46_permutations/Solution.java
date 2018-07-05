@@ -17,7 +17,7 @@ import java.util.List;
 
 class Solution {
 
-    public List<List<Integer>> permutate(int[] nums) {
+    public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> rst = new ArrayList<>();
         generateHeap(nums.length, rst, nums);
         return rst;
@@ -55,6 +55,6 @@ class Solution {
 
     public static void main(String[] args) {
         int[] nums = {1,2,3};
-        System.out.print(new Solution().permutate(nums));
+        System.out.print(new Solution().permute(nums));
     }
 }
