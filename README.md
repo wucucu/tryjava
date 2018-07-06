@@ -9,7 +9,7 @@ Try java language and tools
   - ~~双指针 two pointers~~ (7/7)
   - ~~排序 sort~~ (4/4)
   - ~~二分查找 binary search~~ (6/6)
-  - 搜索 (16/22)
+  - 搜索 (19/22)
   - 分治
   - 
   
