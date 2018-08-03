@@ -10,7 +10,7 @@ Try java language and tools
   - ~~排序 sort~~ (4/4)
   - ~~二分查找 binary search~~ (6/6)
   - ~~搜索 (22/22)~~
-  - 分治
+  - ~~分治 (1/1)~~
   - 动态规划
   
   
