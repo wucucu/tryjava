@@ -91,5 +91,8 @@ modules.xml
 
 
 # End of https://www.gitignore.io/api/intellij+iml
+
+# ide/editor files
 /.metadata/
 /bin/
+.vscode/settings.json
