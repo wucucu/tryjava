@@ -96,3 +96,7 @@ modules.xml
 /.metadata/
 /bin/
 .vscode/settings.json
+
+# other files
+*.pdf
+*.epub
