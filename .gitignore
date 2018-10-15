@@ -100,3 +100,4 @@ modules.xml
 # other files
 *.pdf
 *.epub
+javatutorial/*
