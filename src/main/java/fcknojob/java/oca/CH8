@@ -1,25 +1,14 @@
-26 B
-27 C
-28 D
-29 A
-30 C -> D
-31 C -> B
-32 A
-33 A
-34 C
-35 B
-36 C -> A
-37 C
-38 C
-39 D
-40 A -> D
-41 B -> C
-42 A -> D
-43 D
-44 D
-45 C
-46 A -> D
-47 B -> D
-48 D
-49 A -> C
-50 B
+01-10 DBDDD BABCA
+         A      C
+
+11-20 BACCC BABDA
+             D  C
+
+21-30 BAADD BCDAD
+       B C
+
+31-40 BDACB ACCDC
+       A        D
+
+41-50 BADDC ADDCB
+      CD    D

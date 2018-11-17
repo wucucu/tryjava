@@ -1,5 +1,14 @@
-26 C -> D
-27 A
-28 C
-29 C -> B
-30 D
+01-10 CDDBB CCACD
+
+
+11-20 BDDAB AAAAC
+      D   D 
+
+21-30 ADDCB DAABD
+         B    C
+
+31-40 DBABC CBBCC
+
+
+41-50 BBBCD BCDBA
+      D C   D  CC
