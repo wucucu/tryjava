@@ -4,7 +4,7 @@ Try java language and tools
 [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## TODO
-- Leetcode everyday 2 at least, ref to  [https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Leetcode 题解.md][1] first round
+- Leetcode everyday 2 at least, ref to  [https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Leetcode%20%E9%A2%98%E8%A7%A3.md][1] first round
   - ~~贪心法 greeady~~ (9/9)
   - ~~双指针 two pointers~~ (7/7)
   - ~~排序 sort~~ (4/4)
