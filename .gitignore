@@ -95,6 +95,7 @@ modules.xml
 # ide/editor files
 /.metadata/
 /bin/
+target/classes/META-INF/
 .vscode/settings.json
 
 # other files
