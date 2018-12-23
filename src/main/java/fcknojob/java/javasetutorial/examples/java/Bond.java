@@ -1,7 +1,7 @@
 /* OCA_OCP Practice Book by Selikoff and Boyarsky
  * Chaper 3, Question 20
  */
-package fcknojob.java.oca;
+package fcknojob.java.javasetutorial.examples.java;
 
 public class Bond {
     private static int price =5;

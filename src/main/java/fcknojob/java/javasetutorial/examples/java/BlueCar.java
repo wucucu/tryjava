@@ -1,4 +1,4 @@
-package fcknojob.java.oca;
+package fcknojob.java.javasetutorial.examples.java;
 
 abstract class Car {
     static { System.out.print("1"); }

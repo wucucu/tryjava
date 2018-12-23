@@ -1,7 +1,7 @@
 /* OCA_OCP Practice Book by Selikoff and Boyarsky
  * Question 10
  */
-package fcknojob.java.oca;
+package fcknojob.java.javasetutorial.examples.java;
 
 public class Robot {
     static String weight = "A lot";
