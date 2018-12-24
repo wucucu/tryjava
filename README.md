@@ -4,7 +4,7 @@ Try java language and tools
 [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## TODO
-- Leetcode everyday 2 at least, ref to  [https://github.com/CyC2018/CS-Notes/blob/master/docs/README.md][1] first round
+- Leetcode everyday 2 at least, ref to  [CyC2018/CS-Notes/blob/master/docs/notes/Leetcode 题解.md][1] first round
   - 算法
     - ~~贪心法 greeady~~ (9/9)
     - ~~双指针 two pointers~~ (7/7)
@@ -57,7 +57,7 @@ Try java language and tools
     - verify local computer git config user.email information in the github profile
 
 
-[1]: https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3.md
+[1]: https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Leetcode%20%E9%A2%98%E8%A7%A3.md
 [2]: https://maven.apache.org/
 [3]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/index.htm
 [5]: https://docs.oracle.com/javase/tutorial/index.html
