@@ -14,7 +14,7 @@ Try java language and tools
     - ~~分治 (1/1)~~
     - ~~动态规划~~
   - 数据结构
-    - 链表（160, 206）
+    - 链表（160, 206, 21, 83, 19）
   
   
 - try to use [maven][2]
